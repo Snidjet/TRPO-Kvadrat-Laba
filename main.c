@@ -1,0 +1,9 @@
+int main () {
+int x1,x2,a,b,c;
+printf("Введите а,b,c:");
+scanf("%d",a);
+scanf("%d",b);
+scanf("%d",c);
+ Kvad(a,b,c,*x1,*x2);
+
+}
