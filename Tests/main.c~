@@ -1,0 +1,7 @@
+int main (int a,int b, int c) {
+int x1,x2
+
+ Kvad(a,b,c,*x1,*x2);
+ 
+
+}
